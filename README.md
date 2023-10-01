@@ -1,2 +1,2 @@
-# unity-template-3D
-Unity template 3D - URP
+# 3D-unity-template
+3D Unity project template - Unity ver. 2021.3.12f1 - URP
